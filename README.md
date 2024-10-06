@@ -1,4 +1,4 @@
-<b>DESRIPSI PROYEK</b>
+<b>DESKRIPSI PROYEK</b>
 <hr>
 <br><br>
 This project is a submission for the Dicoding course: Belajar Membuat Front-End Web untuk Pemula, developed using JavaScript, HTML, and CSS. 
